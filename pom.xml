@@ -12,7 +12,11 @@
 	    
 	</dependency>
 
-  
+  <dependency>
+        <groupId>com.epam.tat</groupId>
+        <artifactId>module4</artifactId>
+        <version>1.0.0</version>
+    </dependency>
   </dependencies>
   <build>
     <plugins>
