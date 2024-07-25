@@ -10,11 +10,9 @@
             </run>
         </groups>
         <classes>
-            <class name="com.epam.growprogram.TestNg.TestCase"/>
+            <class name="com.test.TestCase"/>
         </classes>
     </test>
 
  
 </suite>
-
-
